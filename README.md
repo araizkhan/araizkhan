@@ -27,7 +27,9 @@
 <p align="left">
   Here are some Intro about me:<br><br>
   - 🔭 I’m currently working as a Full Stack Engineer<br>
-  - 🌱 I’m currently learning RUST/ROR.<br>
+  - 🤖 Building intelligent systems that learn, adapt, and scale.<br>
+  - 🧠 Turning data into decisions with machine learning and AI.<br>
+  - 🚀 From models to production — crafting end-to-end AI solutions.<br>
   - 👯 I’m looking to collaborate on Contribute to Open Source.<br>
   - 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>
   - 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions. 👨🏻‍💻✅
